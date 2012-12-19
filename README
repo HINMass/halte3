@@ -5,4 +5,7 @@ any unrelated file pushed into root dir will be deleted in one week
 
 if you do a wrong commit, just delete it BY YOUR SELF.
 
+A clear description for you changeset if need , if you commit a changeset just like "test" or "1234", it will be deleted.
+And if any patch on codes, request a code review.
+
 p.s. remember to clear your personal dir ,because we have only 4GB
