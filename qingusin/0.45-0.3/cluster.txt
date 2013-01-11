@@ -3,1201 +3,1133 @@ build articles...0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,2
 total 847 words
 laplacian...lps...lpn...eigen...ok
 clustering...ok
-class: 0 cosine: 0.154303
-{35367016 11968467856 73880800 4234 10955898 10938334 35367016 66125824 25292800 40833024 0 17564 28672 393216 251992 524288 8096 131072 1439992 48097328 1357898019885686778 1403575101 [2520070 2524216 2525310 2522547 2546740 2732871 1596539 1599889 1599273 1603076 1604026 1603788 1607866 1599042 1606440 1594639 1602189 1598814 1595027 1714328 2412792 2398923 2401476 2417881 2432955 2443653 2457154 2469344 2474185 2494036 2500240 2496537 2512905 2517807 2516783 2526405 2544019 2532835 2547586 2537036 2532788 2532509 2529307 2522227 2544974 2535581 2534030 2539655 2529089 2529175 2533808 2526344 2534865 2516158 2527787 2527188 2536803 2537764 2539239 2533403 2529757 2533788 2537253 2536435 2542068 2538402 2535162 2556314 2545202 2550582 2543367 2540372 2542925 2543382 2544602 2545473 2549585 2536237 2536874 2543430 2544510 2541080 2537970 2531327 2522324 2532449 2516147 2534340 2541296 2530428 2538840 2518148 2530300 2532225 2542766 2527993 2529584 2525483 2534553 2534549 2531120 2533435 2544913 2526278 2528289 2525770 2543712 2531072 2530694 2524185 2522165 2531631 2530608 2539678 2553556 2541876 2555056 2553035 2543228 2549623 2547288 2540671 2543400 2543809 2546693 2541476 2537384 2547593 2539752 2530666 2529726 2539275 2527371 2521273 2522056 2541245 2513849 2522768 2513485 2511526 2518767 2525170 2523313 2523386 2524407 2540032 2530763 2525332 2527755 2525286 2523192 2524893 2529798 2525485 2525949 2516528 2528865 2530006 2533433 2535012 2523541 2531166 2540093 2543936 2550049 2548870 2578458 2544688 2554259 2542976 2544937 2538834 2548700 2541723 2557347 2548149 2542747 2533265 2541378 2534690 2542989 2553421 2535596 2527248 2528828 2533812 2539137 2524766 2513563 2510191 2522440 2524968 2517088 2579585 2515472 2509102 2523137 2529766 2521066 2530321 2519015 2523370 2529564 2536391 2529366 2533993 2527534 2521170 2530835 2527469 2525249 2536322 2532127 2550364 2547206 2540836 2545483 2538479 2542695 2545011 2536403 2531775 2540586 2531968 2541770 2541304 2541250 2532831 2529738 2536599 2538540 2536850 2524155 2516253 2534120 2511752 2526594 2523990 2516084 2520442 2528373 2534754 2529682 2538239 2526029 2526789 2514770 2529923 2521155 2528285 2533383 2529264 2526329 2539111 2528635 2525991] 774 true false [{0 0 0} {8 540782 540575} {16 7618 4315} {32 5191621 5185598} {48 6002 5495} {64 1391 1054} {80 1136 408} {96 402 355} {112 703 631} {128 633 310} {144 344 24} {160 44 30} {176 50 21} {192 11387 11236} {208 14 7} {224 26 7} {240 297 166} {256 299 101} {288 9 5} {320 29 12} {352 7 6} {384 5 5} {448 21 4} {512 253 80} {576 7 4} {640 2 2} {704 1 1} {768 0 0} {832 0 0} {1024 68 21} {1152 2 0} {1280 0 0} {1408 0 0} {1536 14 2} {1664 3398479 3398058} {2048 10 9} {2304 41 0} {2560 1451693 1447318} {3072 0 0} {3328 1282 1282} {4096 327 320} {4352 0 0} {4608 2 1} {5120 529 526} {6144 774 774} {6656 203 203} {6912 339003 338999} {8192 55 54} {8704 1 1} {10240 26 22} {10496 0 0} {12288 17 17} {14080 11 11} {16384 12 11} {17664 6 6} {20480 6 6} {21248 12 12} {24576 12 12} {24832 0 0} {28672 11 11} {32768 24 20}]}
-CNN, 移民, 
-class: 1 cosine: 0.426401
-应变, 丹佛, 
-class: 2 cosine: NaN
-团体, 
-class: 3 cosine: 0.136083
-地区, 航母战斗群, 11月, 
-class: 4 cosine: 0.551567
-艾伦, 司令, 盟军, 
-class: 5 cosine: 0.000000
-思想, 中心, 
-class: 6 cosine: NaN
-北京时间, 
-class: 7 cosine: 0.298142
-10, 超越, 基金, 
-class: 8 cosine: 0.000000
-加拉加斯, 美国公民, 吴登盛, 布莱尔, 德国, 军事行动, 好人, 能人, 
-class: 9 cosine: NaN
-道路, 
-class: 10 cosine: 0.500000
-左右, 高达, 
-class: 11 cosine: 0.622008
-29, 新泽西州, 万户, 联邦, 
-class: 12 cosine: 0.000000
-45, 女人, 性别, 
-class: 13 cosine: 0.500000
-明天, 弗吉尼亚, 
-class: 14 cosine: NaN
-公平贸易, 
-class: 15 cosine: 0.000000
-内华达, 主席, 
-class: 16 cosine: 0.408248
-47, 周二, 
-class: 17 cosine: 0.408248
-中方, 联大, 
-class: 18 cosine: 0.408248
-专家, 利亚, 
-class: 19 cosine: 0.000000
-脱口秀, 曲奇, 
-class: 20 cosine: 0.408248
-星期, 夜晚, 
-class: 21 cosine: 0.027217
-地震, 女同, 卢沛宁, 白宫, 社论, 预言, 
-class: 22 cosine: 0.000000
-克利夫兰, 采访, 
-class: 23 cosine: 0.000000
-华盛顿大学, 广告, 
-class: 24 cosine: 0.000000
-呼吸, 巴沙, 
-class: 25 cosine: NaN
-众议院, 
-class: 26 cosine: 0.500000
-老爷, 克林顿, 
-class: 27 cosine: 0.303561
-外交政策, 恐怖主义, 恐怖分子, 
-class: 28 cosine: 0.507093
-开玩笑, 结婚纪念日, 
-class: 29 cosine: 0.000000
-工业, 19, 
-class: 30 cosine: NaN
-北约, 
-class: 31 cosine: 0.000000
-拜登, 族群, 
-class: 32 cosine: 0.287457
-刺刀, 中日, 推特, 媒体, 
-class: 33 cosine: 0.136083
-困境, 理论, 拉克, 
-class: 34 cosine: 0.229199
-诉讼, 罗尔斯, 三一重工, 权利, 
-class: 35 cosine: 0.000000
-文字, 脚踏车, 
-class: 36 cosine: 0.534522
-筹款, 吉米, 
-class: 37 cosine: NaN
-11月4日, 
-class: 38 cosine: 0.250000
-形象, 养老, 常州, 衣服, 
-class: 39 cosine: 0.500000
-能源, 君子, 
-class: 40 cosine: 0.134123
-伯恩, 关系, 矛盾, 
-class: 41 cosine: 0.000000
-命令, 70, 
-class: 42 cosine: NaN
-威廉斯堡, 
-class: 43 cosine: 0.111111
-学生, 风暴, 25, 
-class: 44 cosine: 0.000000
-频率, 美国总统选举, 
-class: 45 cosine: NaN
-流产, 
-class: 46 cosine: 0.104650
-公司, 我们, 财政部, 综合征, 
-class: 47 cosine: 0.408248
-乔, 方阵, 
-class: 48 cosine: 0.388889
-表情, 自然, 展示, 消息, 
-class: 49 cosine: 0.000000
-发现, 美联储, 
-class: 50 cosine: 0.083333
-财政, 制造业, 经营者, 怪物, 
-class: 51 cosine: 0.438832
-经济政策, 税政, 退休, 
-class: 52 cosine: 0.298394
-贸易, 中东, 政策, 
-class: 53 cosine: 0.040825
-10月8日, 丹麦, 搜集, 爆料, 周成, 
-class: 54 cosine: NaN
-燃油, 
-class: 55 cosine: 0.538675
-第一夫人, 得胜, 24, 前进, 
-class: 56 cosine: 0.000000
-力量, 肯塔基州, 
-class: 57 cosine: 0.353553
-飓风, 地铁, 
-class: 58 cosine: 0.408248
-组织, 卡塔尔, 
-class: 59 cosine: 0.149071
-核武器, 轰炸机, 内塔尼亚胡, 
-class: 60 cosine: 0.500000
-120, 49, 
-class: 61 cosine: 0.408248
-节目, 咖啡, 
-class: 62 cosine: 0.353553
-袭击, 领事馆, 
-class: 63 cosine: NaN
-自由贸易, 
-class: 64 cosine: 0.316228
-科罗拉多州, 美国经济, 
-class: 65 cosine: NaN
-好先生, 
-class: 66 cosine: 0.353553
-电场, 项目, 
-class: 67 cosine: 0.666667
-中亚, 亚洲, 阳光, 结构, 中都, 舞台, 美国政治, 
-class: 68 cosine: 0.408248
-工作, 律师, 
-class: 69 cosine: NaN
-共享, 
-class: 70 cosine: 0.500000
-九月, 十月, 
-class: 71 cosine: 0.000000
-巴格达, 方根, 
-class: 72 cosine: 0.272166
-霍夫, 悬河, 新华社, 
-class: 73 cosine: 0.500000
-日和, 9月28日, 26, 
-class: 74 cosine: 0.408248
-东西, 生产, 
-class: 75 cosine: 0.384900
-太阳能, 复兴, 罗斯福新政, 
-class: 76 cosine: 0.406870
-分钟, 阿富汗, 波卡, 
-class: 77 cosine: 0.500000
-13, 12, 
-class: 78 cosine: 0.534522
-经济, 美国西部, 
-class: 79 cosine: 0.411054
-相对, 守规, 被提, 上都, 
-class: 80 cosine: 0.408248
-想象, 20, 
-class: 81 cosine: 0.215738
-弗吉尼亚州, 富人, 女性, 
-class: 82 cosine: 0.500000
-明明, 美国人, 
-class: 83 cosine: 0.000000
-工商业, 财年, 
-class: 84 cosine: 0.500000
-时报, 形式, 
-class: 85 cosine: NaN
-地球, 
-class: 86 cosine: 0.408248
-老百姓, 债务, 
-class: 87 cosine: NaN
-阿富汗战争, 
-class: 88 cosine: 0.550229
-安保, 恩格勒, 办公室, 马拉, 
-class: 89 cosine: 0.500000
-萨帕特罗, 西班牙, 
-class: 90 cosine: NaN
-打比, 
-class: 91 cosine: 0.018034
-, 中国, 罗姆, 辩论, 日本, 主持人, 拉丁裔, 选民, 金融, 系统, 伊朗, 货币, 我们的, 企业, 大学, 国际, 副总统, 发展, 国际社会, 军事, 选举, 美元, 幸福, 计划, 10月22日, 汇率, 味精, 卡尔扎伊, 货币政策, 妖魔, 国际原子能机构, 江南, 出版, 光伏, 张军, 缅甸, 金融风险, 捐款, 六国, 凯迪拉克, 利益, 摄影, 鲍威尔, 加州, 卫星, 发电机, 新源, 雅各, 解决问题, 华人, 盘点, 柔道, 失业救济, 体操, 人权问题, 莫言, 
-class: 92 cosine: NaN
-贝恩投资, 
-class: 93 cosine: 0.438832
-财政赤字, 34, 技能, 
-class: 94 cosine: 0.000000
-美国广播公司, 排名, 
-class: 95 cosine: 0.408248
-西部, 时间, 
-class: 96 cosine: NaN
-国务卿, 
-class: 97 cosine: NaN
-土耳其, 
-class: 98 cosine: 0.408248
-投票站, 小男孩, 
-class: 99 cosine: 0.408248
-防守, 直播, 
-class: 100 cosine: NaN
-尖阁诸岛, 
-class: 101 cosine: 0.136083
-伊州, 渴望, 高高, 
-class: 102 cosine: 0.408248
-莫斯科, 维和, 
-class: 103 cosine: 0.500000
-古巴, 古巴导弹危机, 
-class: 104 cosine: 0.166667
-约翰, 一战, 苏联, 
-class: 105 cosine: 0.408248
-浪漫, 小时, 
-class: 106 cosine: NaN
-所得税, 
-class: 107 cosine: NaN
-世界末日, 
-class: 108 cosine: 0.136083
-贸易战, 俄亥俄州, 刻意, 
-class: 109 cosine: 0.516398
-补贴, 安全, 
-class: 110 cosine: 0.234005
-收入, 联邦政府, 资本主义, 中产阶级, 
-class: 111 cosine: 0.408248
-20年, 在一起, 
-class: 112 cosine: 0.192450
-纽约, 曼哈顿, 救灾, 
-class: 113 cosine: 0.111111
-对话, 印度, 卡拉, 
-class: 114 cosine: 0.666667
-新闻, 罗伯特, 
-class: 115 cosine: 0.000000
-外电, 向前, 
-class: 116 cosine: NaN
-奋斗, 
-class: 117 cosine: NaN
-法国, 
-class: 118 cosine: 0.408248
-登记选民, 程序, 
-class: 119 cosine: NaN
-言论自由, 
-class: 120 cosine: 0.516398
-俄罗斯, 核弹头, 
-class: 121 cosine: 0.069692
-朝鲜, 富兰克林, 钓鱼岛, 霍尔木兹海峡, 国军, 
-class: 122 cosine: 0.000000
-汉森, 网络安全, 
-class: 123 cosine: 0.000000
-阿克塞, 枪支, 
-class: 124 cosine: 0.000000
-美国海军学院, 10月23日, 
-class: 125 cosine: 0.000000
-中国经济, 脏话, 
-class: 126 cosine: 0.500000
-相关, 中大, 人大, 
-class: 127 cosine: 0.500000
-尼克松, 福特, 
-class: 128 cosine: 0.000000
-外部, 中东地区, 
-class: 129 cosine: 0.000000
-亚太, 中美关系, 大选, 
-class: 130 cosine: 0.383277
-全球, 世界经济, 法律, 
-class: 131 cosine: 0.666667
-史密斯, 克鲁尼, 饮食, 电视节目, 130, 
-class: 132 cosine: 0.000000
-境内, 天然气, 
-class: 133 cosine: 0.666667
-福利, 社会, 
-class: 134 cosine: 0.198727
-路透社, 策略, 加拉, 
-class: 135 cosine: NaN
-税率, 
-class: 136 cosine: 0.166667
-制度, 停火, 宰牲节, 
-class: 137 cosine: 0.000000
-国际法, 优素福, 
-class: 138 cosine: 0.142259
-医疗保险, 戈尔, 老布什, 中央社, 
-class: 139 cosine: 0.000000
-非洲, 士兵, 
-class: 140 cosine: 0.408248
-美国白宫, 一半, 
-class: 141 cosine: NaN
-华裔, 
-class: 142 cosine: 0.000000
-研究所, 不屑, 
-class: 143 cosine: 0.333333
-佛罗里达州, 网通, 
-class: 144 cosine: 0.142259
-改革, 空间, 市场经济, 凯恩斯主义, 
-class: 145 cosine: NaN
-主计长, 
-class: 146 cosine: NaN
-进口, 
-class: 147 cosine: 0.500000
-民主党, 小布什, 里根, 
-class: 148 cosine: 0.666667
-美国东部, 灾害, 
-class: 149 cosine: NaN
-裁判, 
-class: 150 cosine: 0.447214
-弗吉尼亚军事学院, 事件, 
-class: 151 cosine: 0.707107
-种族, 黑人, 
-class: 152 cosine: 0.000000
-方向, 食指, 
-class: 153 cosine: 0.328533
-法案, 电力, 拯救, 
-class: 154 cosine: NaN
-实业, 
-class: 155 cosine: 0.000000
-网络攻击, 电脑, 
-class: 156 cosine: 0.000000
-电台, 马丁, 
-class: 157 cosine: 0.000000
-说事儿, 教授, 
-class: 158 cosine: NaN
-生意, 
-class: 159 cosine: 0.000000
-叙利亚, 风力, 朝鲜国防委员会, 席尔瓦, 
-class: 160 cosine: NaN
-信仰, 
-class: 161 cosine: 0.219416
-中国人, 签证, 苹果, 行为, 
-class: 162 cosine: 0.377964
-三一集团, 商务, 
-class: 163 cosine: 0.000000
-乔治, 总统竞选, 
-class: 164 cosine: 0.408248
-中间选民, 46, 
-class: 165 cosine: 0.438832
-东部, 16, 统计, 
-class: 166 cosine: 0.500000
-阿拉伯, 反常, 
-class: 167 cosine: 0.666667
-争执, 值得, 
-class: 168 cosine: 0.481406
-10月17日, 上午, 纽约州, 
-class: 169 cosine: 0.000000
-基地, 黑客, 沙特阿拉伯, 
-class: 170 cosine: NaN
-工程, 
-class: 171 cosine: NaN
-海豹突击队, 
-class: 172 cosine: NaN
-中新社, 
-class: 173 cosine: 0.408248
-中一, 哥伦比亚广播公司, 
-class: 174 cosine: 0.000000
-你和我, 市场, 
-class: 175 cosine: NaN
-花朵, 
-class: 176 cosine: 0.000000
-导弹, 朝政, 
-class: 177 cosine: 0.000000
-审查, 战略, 
-class: 178 cosine: 0.128413
-大国, 经济增长, 两周, 劳工, 
-class: 179 cosine: NaN
-上表, 
-class: 180 cosine: 0.408248
-军演, 朝鲜半岛, 
-class: 181 cosine: 0.000000
-11, 黄岩岛, 
-class: 182 cosine: 0.438832
-财富, 斯汀, 富有, 
-class: 183 cosine: 0.151781
-拉登, 角色, 巴基斯坦, 名称, 
-class: 184 cosine: 0.136083
-死亡, 语句, 美国东部时间, 
-class: 185 cosine: 0.000000
-日出, 独联体集体安全条约组织, 
-class: 186 cosine: 0.577350
-月份, 失业, 
-class: 187 cosine: 0.500000
+class: 0 cosine: 0.500000
+{46985992 10851732592 72766688 4059 10301175 10274489 46985992 65077248 13684736 51392512 0 26686 28672 393216 388960 524288 8096 131072 1439992 47328176 1357898354354149200 1350634392 [1588620 1585634 1592002 1593060 1594583 1585791 1579238 1582260 1586695 1871558 2591323 2572026 2603467 2605599 2638813 2670131 2666787 2680392 2695050 2706425 2726864 2757881 2735374 2722682 2749112 2749329 2783231 2782489 2789590 2780140 2774648 2775417 2780559 2779284 2775356 2775772 2778230 2771668 2769602 2778128 2772009 2781533 2789269 2793044 2779251 2797133 2803779 2809427 2788516 2795678 2792604 2795803 2788511 2792150 2784699 2788780 2780825 2789278 2786561 2781866 2782794 2788941 2808407 2781962 2773394 2756948 2765174 2753070 2786354 2784684 2783537 2776357 2800304 2783542 2784435 2782052 2791867 2793788 2793341 2792590 2792886 2793703 2793856 2801091 2787397 2811138 2780689 2782188 2785737 2799942 2794749 2796400 2794969 2800621 2792579 2785252 2809282 2801221 2793576 2777528 2807343 2792047 2783242 2777173 2774990 2774905 2793955 2777308 2753653 2765572 2760940 2793229 2789116 2797467 2781392 2786074 2796617 2781443 2786766 2793943 2785527 2791416 2791112 2793001 2790427 2794210 2792695 2795074 2797803 2791751 2783269 2807289 2801476 2798516 2796128 2798314 2787246 2797547 2800214 2777119 2797053 2785779 2786938 2796361 2781884 2785304 2783400 2823050 2778988 2786944 2769031 2783011 2759543 2791391 2790275 2792245 2785251 2782222 2780071 2775848 2793242 2787225 2788934 2794037 2787214 2789805 2779308 2789751 2785631 2786929 2783985 2782720 2781116 2792022 2799923 2788196 2795926 2800663 2796061 2789577 2792895 2792178 2796970 2796785 2790656 2796079 2790075 2780193 2778557 2767081 2801542 2786550 2748389 2756461 2799007 2769280 2780207 2772428 2784151 2774618 2788750 2778152 2789195 2781498 2790527 2804043 2799922 2791199 2798612 2795552 2791762 2797357 2798810 2797638 2800471 2799840 2702692 2733131 1585828 1586710 1589942 1588797 1596546 1589496 1586345 1587864 1592102 1595603 1586554 1581549 1586184 1582708 1585232 1588279 1588085 1582940 1583026 1583312 1586093 1593877 1589887 1592574 1583067 1580404 1579880 1588379 1586194 1594353 1583932 1589594 1582887 1583689 1591390 1591899 1585072 1575263] 730 true false [{0 0 0} {8 540428 540247} {16 7505 4217} {32 4864489 4853868} {48 5968 5495} {64 1446 1106} {80 1135 408} {96 401 356} {112 703 628} {128 653 329} {144 344 24} {160 54 41} {176 48 21} {192 11423 11268} {208 14 7} {224 28 7} {240 294 167} {256 311 112} {288 9 5} {320 29 12} {352 7 6} {384 5 5} {448 21 4} {512 254 83} {576 7 4} {640 2 2} {704 1 1} {768 0 0} {832 0 0} {1024 80 30} {1152 2 0} {1280 0 0} {1408 0 0} {1536 3097340 3096944} {1664 3 1} {2048 10 9} {2304 39 0} {2560 1459398 1450392} {3072 1211 1211} {3328 3 1} {4096 325 320} {4352 550 550} {4608 2 1} {5120 3 0} {6144 933 933} {6656 1 1} {6912 305103 305099} {8192 89 88} {8704 36 36} {10240 24 20} {10496 0 0} {12288 18 18} {14080 15 15} {16384 28 27} {17664 12 12} {20480 21 21} {21248 0 0} {24576 44 44} {24832 0 0} {28672 22 22} {32768 30 26}]}
+中间选民, 火药, 
+class: 1 cosine: NaN
+中大, 
+class: 2 cosine: 0.551567
+你和我, 想象, 妻子, 
+class: 3 cosine: 0.500000
+电场, 日和, 贸易战, 
+class: 4 cosine: 0.000000
+地震, 女同, 
+class: 5 cosine: 0.408248
+众议院, 内阁, 
+class: 6 cosine: 0.500000
 帷幕, 华尔街日报, 
-class: 188 cosine: 0.000000
-税收, 4年, 悬崖, 
-class: 189 cosine: NaN
-体育, 
-class: 190 cosine: 0.164983
-报纸, 接地, 领袖, 微博, 健康, 
-class: 191 cosine: 0.438832
-特朗普, 时刻, 500, 
-class: 192 cosine: 0.000000
-常在, 22, 
-class: 193 cosine: 0.333333
-华为, 欧盟委员会, 思科, 
-class: 194 cosine: 0.000000
-大分, 团队, 
-class: 195 cosine: 0.473587
-世界, 民主, 后理, 问题, 
-class: 196 cosine: NaN
-普斯, 
-class: 197 cosine: NaN
-声音, 
-class: 198 cosine: 0.500000
-中国日报, 67, 
-class: 199 cosine: 0.408248
-大政府, 辩护, 
-class: 200 cosine: 0.408248
-伊拉克, 部队, 
-class: 201 cosine: NaN
-火药, 
-class: 202 cosine: 0.357405
-北京, 风能, 无人机, 美国财政部, 
-class: 203 cosine: 0.750000
-华尔街, 现象, 
-class: 204 cosine: 0.000000
-华盛顿邮报, 股票, 
-class: 205 cosine: 0.416667
-全世界, 山姆, 衰落, 
-class: 206 cosine: 0.267261
-投票, 儿童, 
-class: 207 cosine: 0.083333
-名人, 提前, 主持, 250, 
-class: 208 cosine: NaN
-群体, 
-class: 209 cosine: NaN
-对象, 
-class: 210 cosine: 0.235702
-亚裔, 英文, 开源, 
-class: 211 cosine: NaN
-桌子, 
-class: 212 cosine: 0.096225
-岛屿, 领土, 美中关系, 
-class: 213 cosine: NaN
-美日安保条约, 
-class: 214 cosine: 0.117851
-中美, 五角大楼, 范畴, 
-class: 215 cosine: 0.214650
-劳顿, 民意, 罗姆尼, 
-class: 216 cosine: 0.000000
-美国第一夫人, 中情局, 
-class: 217 cosine: 0.500000
-10月9日, 新民, 
-class: 218 cosine: NaN
-结婚, 
-class: 219 cosine: 0.353553
-妻子, 祝福, 
-class: 220 cosine: 0.000000
-创造, 视频, 
-class: 221 cosine: 0.630940
-兴奋, 台风, 个人, 取向, 自由派, 
-class: 222 cosine: NaN
-评论家, 
-class: 223 cosine: 0.500000
-石油, 资源, 
-class: 224 cosine: NaN
-东盟, 
-class: 225 cosine: NaN
-出口, 
-class: 226 cosine: 0.096225
-基辛格, 倾向, 分析, 
-class: 227 cosine: 0.467728
-利比亚, 班加西, 图尔, 
-class: 228 cosine: NaN
-浪潮, 
-class: 229 cosine: 0.408248
-激情, 巴马, 
-class: 230 cosine: 0.500000
-最好, 绿色, 
-class: 231 cosine: NaN
-段达, 
-class: 232 cosine: NaN
-赤字, 
-class: 233 cosine: NaN
-政府, 
-class: 234 cosine: 0.408248
-西方, 商品, 
-class: 235 cosine: 0.000000
-矿产, 领导人, 
-class: 236 cosine: 0.000000
-IM, 主播, 
-class: 237 cosine: NaN
-战争, 
-class: 238 cosine: 0.000000
-价格, 南京, RA, 
-class: 239 cosine: 0.198727
-投资, 贝恩资本, 轮胎, 
-class: 240 cosine: 0.500000
-澳大利亚, 合法, 主编, 
-class: 241 cosine: 0.000000
-网民, 日本国, 
-class: 242 cosine: NaN
-金灿荣, 
-class: 243 cosine: NaN
-就业, 
-class: 244 cosine: 0.377964
-分点, 贝拉克, 
-class: 245 cosine: NaN
-NBC, 
-class: 246 cosine: NaN
-他表, 
-class: 247 cosine: 0.500000
-克拉克, 距离, 
-class: 248 cosine: 0.000000
-查韦斯, 金钱, 埃及, 
-class: 249 cosine: 0.000000
-拉夫, 红场, 
-class: 250 cosine: NaN
-数字, 
-class: 251 cosine: 0.327558
-拉票, 法新社, 马里兰州, 
-class: 252 cosine: NaN
-酒店, 
-class: 253 cosine: 0.301511
-电视, 中国大学, 
-class: 254 cosine: 0.666667
-戴维营, 保守主义, 
-class: 255 cosine: NaN
-志愿者, 
-class: 256 cosine: 0.500000
-艾奥瓦州, 母亲, 
-class: 257 cosine: NaN
-周一, 
-class: 258 cosine: NaN
-外交官, 
-class: 259 cosine: 0.000000
-诚实, 关中, 
-class: 260 cosine: NaN
-军火, 
-class: 261 cosine: NaN
-武器, 
-class: 262 cosine: 0.000000
-竹岛, 漏洞, 
-class: 263 cosine: NaN
-人民币, 
-class: 264 cosine: 0.666667
-预测, 人瑞, 共和党, 
-class: 265 cosine: NaN
-56, 
-class: 266 cosine: 0.000000
-伊朗核问题, 信息, 
-class: 267 cosine: NaN
-以色列, 
-class: 268 cosine: 0.333333
-中兴, 欧洲, 
-class: 269 cosine: NaN
-定性, 
-class: 270 cosine: NaN
-责任, 
-class: 271 cosine: 0.000000
-中位数, 吉布斯, 
-class: 272 cosine: 0.353553
-政客, 封杀, 
-class: 273 cosine: NaN
-穆尔, 
-class: 274 cosine: 0.387747
-失业率, 65, 配资, 
-class: 275 cosine: 0.000000
-歧视, 福佳, 
-class: 276 cosine: 0.500000
-西太平洋, 太平洋, 
-class: 277 cosine: 0.284518
-信任, 替罪羊, 何影, 
-class: 278 cosine: 0.179354
-认识, 10月3日, 数据, 茶党, 
-class: 279 cosine: NaN
-菲律宾, 
-class: 280 cosine: 0.353553
-和平, 欧盟, 
-class: 281 cosine: NaN
-10月19日, 
-class: 282 cosine: NaN
-未来, 
-class: 283 cosine: NaN
-不知所云, 
-class: 284 cosine: 0.408248
-本, 拉丹, 
-class: 285 cosine: 0.000000
-说话, 秘书, 
-class: 286 cosine: 0.000000
-洛杉矶, 晚宴, 
-class: 287 cosine: 0.100592
-希拉里, 特工, 醉酒, 支持者, 
-class: 288 cosine: 0.000000
-季度, 地图, 
-class: 289 cosine: 0.447214
-读书, 肯尼迪, 
-class: 290 cosine: 0.500000
-2000年, 电视广告, 计算, 
-class: 291 cosine: 0.000000
-刺激, 家庭, 
-class: 292 cosine: 0.500000
-正果, 俄亥俄, 
-class: 293 cosine: 0.000000
-艾奥瓦, 爱尔兰, 
-class: 294 cosine: NaN
-杰克, 
-class: 295 cosine: NaN
-10月30日, 
-class: 296 cosine: NaN
-18, 
-class: 297 cosine: 0.408248
-部长, 芝加哥, 
-class: 298 cosine: NaN
-外交, 
-class: 299 cosine: 0.500000
-美国媒体, CBS, 
-class: 300 cosine: NaN
-奥运会, 
-class: 301 cosine: 0.288675
-晚上, 10月18日, 
-class: 302 cosine: NaN
-风险, 
-class: 303 cosine: NaN
+class: 7 cosine: 0.000000
+进口, 孔子学院, 
+class: 8 cosine: 0.666667
+争执, 值得, 
+class: 9 cosine: NaN
 费城, 
-class: 304 cosine: 0.353553
-手势, 参议, 
-class: 305 cosine: NaN
-技巧, 
-class: 306 cosine: 0.500000
-惩罚, 忘记, 
-class: 307 cosine: 0.000000
-伙伴, 阿博, 
-class: 308 cosine: NaN
-空海, 
-class: 309 cosine: 0.577350
-概念, 区域, 
-class: 310 cosine: NaN
-比例, 
-class: 311 cosine: NaN
+class: 10 cosine: 0.408248
+北约, 部队, 
+class: 11 cosine: 0.009743
+, 名人, 中国, 罗姆, 纽约州, 辩论, 公司, 亚太, 日本, 贸易, 拉丁裔, 选民, 财政, 企业, 大学, 加拉加斯, 国际, 国际社会, 风力, 选举, 美元, 替罪羊, 幸福, 计划, 10月22日, 法案, 味精, 美国公民, 卡尔扎伊, 货币政策, 女人, 妖魔, 国际原子能机构, 韩国, 朝鲜国防委员会, 江南, 出版, 光伏, 张军, 金融风险, 捐款, 六国, 吴登盛, 凯迪拉克, 布莱尔, 摄影, 鲍威尔, 卫星, 席尔瓦, 族群, 发电机, 新源, 雅各, 解决问题, 超级大国, 华人, 盘点, 军事行动, 柔道, 经营者, 脏话, 性别, 失业救济, 好人, 体操, 人权问题, 莫言, 怪物, 
+class: 12 cosine: 0.328533
+网络攻击, 网络, 电脑, 
+class: 13 cosine: NaN
 美军, 
-class: 312 cosine: NaN
-哈姆, 
-class: 313 cosine: NaN
-名字, 
-class: 314 cosine: 0.000000
-游戏, 10月15日, 
-class: 315 cosine: NaN
-保罗, 
-class: 316 cosine: NaN
-1936年, 
-class: 317 cosine: NaN
-四天, 
-class: 318 cosine: 0.500000
-14, 情绪, 
-class: 319 cosine: NaN
-贸易逆差, 
-class: 320 cosine: NaN
-储蓄, 
-class: 321 cosine: NaN
-黑白, 
-class: 322 cosine: 0.408248
-连珠, 慈善, 
-class: 323 cosine: 0.000000
-周四, 冰岛, 
-class: 324 cosine: NaN
-幽默, 
-class: 325 cosine: NaN
-灾难, 
-class: 326 cosine: NaN
-韩国, 
-class: 327 cosine: NaN
-社交, 
-class: 328 cosine: NaN
-商店, 
-class: 329 cosine: NaN
-玩笑, 
-class: 330 cosine: 0.000000
-顾问, 波特, 
-class: 331 cosine: 0.500000
-福克斯, 有线电视, 
-class: 332 cosine: NaN
-分析师, 
-class: 333 cosine: NaN
-CF, 
-class: 334 cosine: NaN
-纽约时报, 
-class: 335 cosine: NaN
-吉拉, 
-class: 336 cosine: NaN
-港口, 
-class: 337 cosine: 0.000000
-八大, 航母, 
-class: 338 cosine: 0.408248
-中共, 主权, 
-class: 339 cosine: NaN
-选择, 
-class: 340 cosine: NaN
-西方国家, 
-class: 341 cosine: NaN
-克里, 
-class: 342 cosine: 0.000000
-10月16日, 华盛顿时报, 
-class: 343 cosine: 0.210819
-23, 选手, 10月, 
-class: 344 cosine: NaN
-政治献金, 
-class: 345 cosine: NaN
-文章, 
-class: 346 cosine: 0.000000
-关税, 英特尔, 
-class: 347 cosine: NaN
-广播, 
-class: 348 cosine: NaN
-故事, 
-class: 349 cosine: NaN
-分享, 
-class: 350 cosine: 0.500000
-适应, 证据, 
-class: 351 cosine: 0.000000
-环球时报, 的卢, 
-class: 352 cosine: 0.000000
-握手, 巴沙尔, 
-class: 353 cosine: NaN
-网络, 
-class: 354 cosine: NaN
-卡尼, 
-class: 355 cosine: NaN
-晚餐, 
-class: 356 cosine: NaN
-孔子学院, 
-class: 357 cosine: NaN
-野田, 
-class: 358 cosine: NaN
+class: 14 cosine: 0.000000
+思想, 高高, 
+class: 15 cosine: 0.000000
+伊州, 红场, 
+class: 16 cosine: 0.408248
+结婚, 祝福, 
+class: 17 cosine: 0.222222
+投票站, 路透社, 登记选民, 
+class: 18 cosine: 0.370791
+经济增长, 中产阶级, 经济政策, 税政, 
+class: 19 cosine: 0.267261
+投票, 儿童, 
+class: 20 cosine: 0.000000
+群体, 马丁, 
+class: 21 cosine: 0.000000
+太平洋, 中共, 
+class: 22 cosine: 0.447214
+10, 超越, 
+class: 23 cosine: NaN
+能源, 
+class: 24 cosine: 0.408248
+对象, 罗伯特, 
+class: 25 cosine: 0.000000
+君子, 彼得, 
+class: 26 cosine: 0.353553
+吉米, 中国日报, 
+class: 27 cosine: 0.500000
+老爷, 小布什, 克林顿, 
+class: 28 cosine: NaN
+法国, 
+class: 29 cosine: NaN
+轰炸机, 
+class: 30 cosine: NaN
+明明, 
+class: 31 cosine: 0.096225
+10月8日, 角色, IM, 
+class: 32 cosine: 0.438832
+特朗普, 时刻, 500, 
+class: 33 cosine: 0.408248
+中兴, 封杀, 
+class: 34 cosine: 0.099914
+系统, 核武器, 以色列, 风险, 联大, 
+class: 35 cosine: 0.408248
+困境, 理论, 
+class: 36 cosine: 0.100000
+20年, 中位数, 10月19日, 未来, 吉布斯, 
+class: 37 cosine: 0.000000
+中国人, 打比, 
+class: 38 cosine: 0.000000
+美国总统选举, 56, 
+class: 39 cosine: 0.175079
+专家, 利亚, 周四, 顾问, 
+class: 40 cosine: NaN
+东盟, 
+class: 41 cosine: 0.303561
+周一, 风暴, 交易, 
+class: 42 cosine: NaN
+穆尔, 
+class: 43 cosine: 0.707107
+尖阁诸岛, 美日安保条约, 
+class: 44 cosine: NaN
+民意, 
+class: 45 cosine: 0.408248
+全球, 世界经济, 
+class: 46 cosine: 0.000000
+季度, 地图, 
+class: 47 cosine: 0.198727
+投资, 贝恩资本, 轮胎, 
+class: 48 cosine: 0.364940
+CNN, 激情, 巴马, 
+class: 49 cosine: 0.068041
+医疗保险, 老布什, 当今世界, 合作, 
+class: 50 cosine: NaN
 收视率, 
-class: 359 cosine: NaN
-白宫办公厅主任, 
-class: 360 cosine: NaN
-赵美心, 
-class: 361 cosine: NaN
-国人, 
-class: 362 cosine: NaN
-彼得, 
-class: 363 cosine: NaN
-真相, 
-class: 364 cosine: NaN
-反美, 
-class: 365 cosine: NaN
-阶层, 
-class: 366 cosine: NaN
-阿罗约, 
-class: 367 cosine: NaN
-内阁, 
-class: 368 cosine: NaN
-视角, 
-class: 369 cosine: NaN
-当今世界, 
-class: 370 cosine: NaN
-合作, 
-class: 371 cosine: NaN
-成长, 
-class: 372 cosine: NaN
-国防开支, 
-class: 373 cosine: NaN
-杨洁篪, 
-class: 374 cosine: NaN
-认真, 
-class: 375 cosine: NaN
-滑铁卢, 
-class: 376 cosine: NaN
-语言, 
-class: 377 cosine: 0.000000
-三者, 在线, 
-class: 378 cosine: NaN
-变化, 
-class: 379 cosine: 0.000000
-日期, 美国商务部, 
-class: 380 cosine: NaN
-世界和平, 
-class: 381 cosine: NaN
-定制, 
-class: 382 cosine: NaN
+class: 51 cosine: NaN
+咖啡, 
+class: 52 cosine: 0.000000
+北京时间, 三一重工, 
+class: 53 cosine: 0.000000
+呼吸, 巴沙, 
+class: 54 cosine: NaN
+视频, 
+class: 55 cosine: NaN
+奥运会, 
+class: 56 cosine: NaN
+贝拉克, 
+class: 57 cosine: NaN
 四季酒店, 
-class: 383 cosine: NaN
-萨科齐, 
-class: 384 cosine: NaN
-蛋糕, 
-class: 385 cosine: 0.000000
-富翁, 洛奇, 
-class: 386 cosine: 0.408248
-交易, 批准, 
-class: 387 cosine: NaN
-噪音, 
-class: 388 cosine: NaN
-诺贝尔和平奖, 
-class: 389 cosine: NaN
-坎特, 
-class: 390 cosine: NaN
-库克, 
-class: 391 cosine: NaN
-乞丐, 
-class: 392 cosine: NaN
-纪录片, 
-class: 393 cosine: NaN
-时殷弘, 
-class: 394 cosine: NaN
-编辑, 
-class: 395 cosine: NaN
-作者, 
-class: 396 cosine: NaN
-医药, 
-class: 397 cosine: NaN
-关塔那摩, 
-class: 398 cosine: NaN
-生地, 
-class: 399 cosine: NaN
+class: 58 cosine: NaN
+白宫办公厅主任, 
+class: 59 cosine: NaN
+加州, 
+class: 60 cosine: 0.000000
+生意, 广播, 
+class: 61 cosine: 0.262572
+纽约, 飓风, 曼哈顿, 救灾, 地铁, 
+class: 62 cosine: 0.111596
+瑞安, 汇率, 我们, 
+class: 63 cosine: NaN
+赵美心, 
+class: 64 cosine: NaN
+八大, 
+class: 65 cosine: 0.175079
+岛屿, 领土, 美中关系, 变化, 
+class: 66 cosine: 0.166667
+概念, 名称, 主权, 
+class: 67 cosine: 0.287457
+刺刀, 中日, 推特, 媒体, 
+class: 68 cosine: 0.000000
+工业, 19, 
+class: 69 cosine: NaN
+信任, 
+class: 70 cosine: 0.136083
+生产, 分享, 公平贸易, 
+class: 71 cosine: 0.500000
+大分, 何影, 
+class: 72 cosine: NaN
+说事儿, 
+class: 73 cosine: NaN
+责任, 
+class: 74 cosine: 0.551567
+艾伦, 司令, 盟军, 
+class: 75 cosine: 0.000000
+华盛顿邮报, 美国媒体, 股票, 
+class: 76 cosine: 0.000000
+段达, 天然气, 
+class: 77 cosine: 0.000000
+矿产, 港口, 
+class: 78 cosine: 0.000000
+三者, 蛋糕, 
+class: 79 cosine: NaN
 领土纠纷, 
-class: 400 cosine: NaN
-肢体语言, 
-class: 401 cosine: 0.000000
-史蒂文, 人保, 
-class: 402 cosine: NaN
-医院, 
-class: 403 cosine: NaN
-富豪, 
-class: 404 cosine: NaN
-商人, 
-class: 405 cosine: NaN
-莫耶斯, 
-class: 406 cosine: NaN
-人口, 
-class: 407 cosine: NaN
-周凤, 
-class: 408 cosine: 0.408248
-健保, 梦想, 
-class: 409 cosine: NaN
-父亲, 
-class: 410 cosine: NaN
-板块, 
-class: 411 cosine: 0.000000
-米勒, 38, 
-class: 412 cosine: NaN
-国际经济学, 
-class: 413 cosine: NaN
-魔术, 
-class: 414 cosine: NaN
-月球, 
-class: 415 cosine: NaN
-向国, 
-class: 416 cosine: NaN
-瑞安, 
-class: 417 cosine: NaN
+class: 80 cosine: 0.000000
+老百姓, 联邦政府, 
+class: 81 cosine: 0.666667
+美国东部, 灾害, 
+class: 82 cosine: NaN
+辩护, 
+class: 83 cosine: 0.000000
+20, 基地, 
+class: 84 cosine: 0.500000
+10月16日, 握手, 
+class: 85 cosine: NaN
+团体, 
+class: 86 cosine: 0.000000
+中情局, 商店, 
+class: 87 cosine: 0.192450
+歧视, 一半, 福佳, 
+class: 88 cosine: 0.000000
+相对, 社论, 
+class: 89 cosine: 0.454124
+财富, 斯汀, 富有, 富豪, 
+class: 90 cosine: 0.298142
+读书, 肯尼迪, 苏联, 
+class: 91 cosine: 0.408248
+地区, 航母战斗群, 
+class: 92 cosine: 0.408248
+团队, 好先生, 
+class: 93 cosine: 0.411054
+罗姆尼, 常在, 财政部, 10月15日, 
+class: 94 cosine: 0.000000
+黄岩岛, 人口, 
+class: 95 cosine: NaN
+菲律宾, 
+class: 96 cosine: 0.577350
+频率, 46, 
+class: 97 cosine: 0.164983
+报纸, 接地, 领袖, 微博, 健康, 
+class: 98 cosine: 0.000000
+阿博, 德国, 
+class: 99 cosine: 0.666667
+中亚, 亚洲, 阳光, 结构, 中都, 自然, 舞台, 展示, 美国政治, 消息, 
+class: 100 cosine: 0.000000
+美国经济, 直播, 
+class: 101 cosine: NaN
+财政赤字, 
+class: 102 cosine: 0.000000
+战略, 4年, 
+class: 103 cosine: NaN
+钓鱼岛, 
+class: 104 cosine: 0.350159
+弗吉尼亚州, 拉登, 马里兰州, 
+class: 105 cosine: 0.000000
+47, 福克斯, 
+class: 106 cosine: 0.000000
+霍夫, 表情, 
+class: 107 cosine: 0.000000
+土耳其, 诺贝尔和平奖, 
+class: 108 cosine: 0.298142
+关系, 发展, 
+class: 109 cosine: 0.500000
+120, 明天, 49, 
+class: 110 cosine: 0.423205
+预测, 人瑞, 共和党, 所得税, 四天, 
+class: 111 cosine: NaN
+周二, 
+class: 112 cosine: 0.500000
+澳大利亚, 合法, 主编, 
+class: 113 cosine: 0.353553
+戈尔, 里根, 
+class: 114 cosine: 0.500000
+2000年, 电视广告, 计算, 
+class: 115 cosine: 0.236271
+大选, 中东, 政策, 认识, 10月3日, 茶党, 
+class: 116 cosine: NaN
+山姆, 
+class: 117 cosine: 0.000000
+商务, 杨洁篪, 
+class: 118 cosine: 0.577350
+签证, 莫斯科, 
+class: 119 cosine: 0.316228
+叙利亚, 弗吉尼亚军事学院, 
+class: 120 cosine: 0.414672
+兴奋, 台风, 税率, 
+class: 121 cosine: 0.333333
+金灿荣, 就业, 
+class: 122 cosine: 0.447214
+法新社, CBS, 
+class: 123 cosine: 0.353553
+手势, 参议, 
+class: 124 cosine: NaN
+国防开支, 
+class: 125 cosine: 0.500000
+尼克松, 中央社, 
+class: 126 cosine: NaN
+流产, 
+class: 127 cosine: NaN
+日出, 
+class: 128 cosine: 0.577350
+中方, 方根, 
+class: 129 cosine: 0.408248
+朝鲜, 国军, 
+class: 130 cosine: NaN
+成长, 
+class: 131 cosine: 0.494388
+晚宴, 慈善, 玩笑, 
+class: 132 cosine: 0.464809
+诉讼, 风能, 罗尔斯, 
+class: 133 cosine: 0.000000
+命令, 70, 
+class: 134 cosine: 0.000000
+克利夫兰, 丹麦, 搜集, 采访, 周成, 
+class: 135 cosine: 0.364940
+筹款, 洛杉矶, 周凤, 
+class: 136 cosine: 0.408248
+文字, 法律, 
+class: 137 cosine: 0.247194
+西方, 欧洲, 埃及, 
+class: 138 cosine: 0.275783
+改革, 空间, 市场经济, 社会, 
+class: 139 cosine: 0.408248
+工作, 律师, 
+class: 140 cosine: 0.136083
+美国海军学院, 本, 拉丹, 
+class: 141 cosine: 0.000000
+国际法, 内塔尼亚胡, 
+class: 142 cosine: NaN
+赤字, 
+class: 143 cosine: 0.235702
+对话, 中美关系, 
+class: 144 cosine: 0.098267
+军演, 导弹, 朝鲜半岛, 航母, 朝政, 
+class: 145 cosine: 0.000000
+防守, 创造, 
+class: 146 cosine: 0.438832
+浪漫, 地球, 小时, 
+class: 147 cosine: 0.500000
+萨帕特罗, 西班牙, 
+class: 148 cosine: 0.538675
+第一夫人, 得胜, 24, 前进, 
+class: 149 cosine: 0.235702
+亚裔, 英文, 开源, 
+class: 150 cosine: NaN
+大政府, 
+class: 151 cosine: NaN
+石油, 
+class: 152 cosine: 0.500000
+外电, 45, 
+class: 153 cosine: 0.166667
+竹岛, 内华达, 富翁, 
+class: 154 cosine: 0.438832
+美国第一夫人, 10月9日, 新民, 
+class: 155 cosine: 0.000000
+富兰克林, 霍尔木兹海峡, 
+class: 156 cosine: 0.500000
+相关, 人大, 
+class: 157 cosine: 0.000000
+国务卿, 袭击, 
+class: 158 cosine: 0.383277
+伊拉克, 外交政策, 说话, 
+class: 159 cosine: 0.408248
+星期, 夜晚, 
+class: 160 cosine: 0.750000
+华尔街, 现象, 
+class: 161 cosine: 0.473587
+世界, 民主, 后理, 问题, 
+class: 162 cosine: 0.000000
+美联储, 阿罗约, 
+class: 163 cosine: 0.500000
+发现, 中国经济, 预言, 
+class: 164 cosine: 0.117851
+北京, 伯恩, 矛盾, 
+class: 165 cosine: 0.530330
+美国人, 奋斗, 
+class: 166 cosine: 0.707107
+种族, 黑人, 
+class: 167 cosine: 0.000000
+军火, 沙特阿拉伯, 
+class: 168 cosine: 0.500000
+道路, 家庭, 
+class: 169 cosine: 0.028526
+移民, 无人机, 美国财政部, 华裔, 金融, 货币, 我们的, 查韦斯, 人民币, 副总统, 伊朗核问题, 军事, 政客, 和平, 守规, 纽约时报, 缅甸, 文章, 阶层, 利益, 
+class: 170 cosine: NaN
+贝恩投资, 
+class: 171 cosine: 0.670820
+10月17日, 上午, 
+class: 172 cosine: 0.000000
+境内, 欧盟, 
+class: 173 cosine: 0.500000
+名字, 连珠, 
+class: 174 cosine: 0.577350
+月份, 失业, 
+class: 175 cosine: 0.000000
+时报, 劳顿, 
+class: 176 cosine: 0.500000
+领导人, 11月, 
+class: 177 cosine: 0.175079
+11, 汉森, 基辛格, 分析, 
+class: 178 cosine: 0.313505
+经济, 阿富汗, 波卡, 
+class: 179 cosine: 0.446384
+力量, 恐怖分子, 贸易逆差, 
+class: 180 cosine: 0.408248
+税收, 美国白宫, 
+class: 181 cosine: 0.068041
+审查, 印度, 商品, 日期, 
+class: 182 cosine: NaN
+9月28日, 
+class: 183 cosine: NaN
+26, 
+class: 184 cosine: 0.377964
+三一集团, 工程, 
+class: 185 cosine: NaN
+外部, 
+class: 186 cosine: 0.513654
+补贴, 安全, 美国商务部, 
+class: 187 cosine: NaN
+乔治, 
+class: 188 cosine: NaN
+华盛顿大学, 
+class: 189 cosine: 0.558024
+开玩笑, 在一起, 结婚纪念日, 
+class: 190 cosine: 0.000000
+制度, 自由贸易, 
+class: 191 cosine: 0.353553
+主持人, 悬河, 
+class: 192 cosine: 0.166667
+停火, 宰牲节, 巴沙尔, 
+class: 193 cosine: 0.201184
+全世界, 中东地区, 衰落, 
+class: 194 cosine: NaN
+小男孩, 
+class: 195 cosine: 0.000000
+电台, 库克, 
+class: 196 cosine: NaN
+桌子, 
+class: 197 cosine: 0.000000
+中美, 民主党, 
+class: 198 cosine: 0.223607
+大国, 两周, 
+class: 199 cosine: 0.000000
+工商业, 财年, 
+class: 200 cosine: 0.500000
+九月, 十月, 
+class: 201 cosine: 0.426401
+应变, 丹佛, 
+class: 202 cosine: 0.498570
+个人, 取向, 自由派, 美国西部, 
+class: 203 cosine: NaN
+评论家, 
+class: 204 cosine: 0.516398
+俄罗斯, 核弹头, 
+class: 205 cosine: NaN
+出口, 
+class: 206 cosine: 0.467728
+利比亚, 班加西, 海豹突击队, 
+class: 207 cosine: 0.494388
+恐怖主义, 巴基斯坦, 中一, 
+class: 208 cosine: 0.447214
+事件, 真相, 
+class: 209 cosine: 0.223607
+上表, 富人, 
+class: 210 cosine: 0.000000
+浪潮, 肯塔基州, 
+class: 211 cosine: 0.152081
+拜登, 史蒂文, 人保, 
+class: 212 cosine: 0.000000
+脱口秀, 曲奇, 
+class: 213 cosine: 0.000000
+节目, NBC, 
+class: 214 cosine: 0.438832
+最好, 绿色, 政府, 
+class: 215 cosine: NaN
+科罗拉多州, 
+class: 216 cosine: NaN
+信仰, 
+class: 217 cosine: NaN
+伊朗, 
+class: 218 cosine: 0.136083
+战争, 主播, 花朵, 
+class: 219 cosine: NaN
+死亡, 
+class: 220 cosine: 0.438832
+俄亥俄州, 刻意, 价格, 
+class: 221 cosine: NaN
+福利, 
+class: 222 cosine: 0.500000
+债务, 资源, 形象, 
+class: 223 cosine: 0.000000
+网民, 日本国, 
+class: 224 cosine: 0.000000
+方向, 食指, 
+class: 225 cosine: 0.418643
+分点, 数字, 酒店, 
+class: 226 cosine: NaN
+女性, 
+class: 227 cosine: NaN
+向前, 
+class: 228 cosine: NaN
+体育, 
+class: 229 cosine: NaN
+他表, 
+class: 230 cosine: 0.000000
+美国广播公司, 排名, 
+class: 231 cosine: 0.500000
+克拉克, 距离, 
+class: 232 cosine: NaN
+卡拉, 
+class: 233 cosine: 0.000000
+佛罗里达州, 13, 
+class: 234 cosine: 0.166667
+养老, 常州, 衣服, 
+class: 235 cosine: NaN
+拉夫, 
+class: 236 cosine: NaN
+拉票, 
+class: 237 cosine: NaN
+威廉斯堡, 
+class: 238 cosine: NaN
+电视, 
+class: 239 cosine: 0.494388
+戴维营, 一战, 保守主义, 
+class: 240 cosine: 0.408248
+西部, 外交官, 
+class: 241 cosine: NaN
+志愿者, 
+class: 242 cosine: 0.500000
+艾奥瓦州, 母亲, 
+class: 243 cosine: 0.408248
+时间, 左右, 
+class: 244 cosine: 0.000000
+诚实, 关中, 
+class: 245 cosine: 0.272166
+渴望, 东西, 关税, 
+class: 246 cosine: 0.500000
+武器, 卡塔尔, 
+class: 247 cosine: 0.251976
+策略, 加拉, 商人, 
+class: 248 cosine: 0.622008
+29, 新泽西州, 万户, 联邦, 
+class: 249 cosine: 0.353553
+项目, CF, 
+class: 250 cosine: 0.181650
+华为, 欧盟委员会, 市场, 权利, 综合征, 思科, 
+class: 251 cosine: 0.288675
+领事馆, 定性, 
+class: 252 cosine: 0.550229
+安保, 恩格勒, 办公室, 马拉, 
+class: 253 cosine: 0.408248
+新闻, 阿克塞, 
+class: 254 cosine: 0.353553
+收入, 资本主义, 
+class: 255 cosine: 0.191638
+金钱, 西太平洋, 组织, 游戏, 
+class: 256 cosine: 0.500000
+阿拉伯, 反常, 
+class: 257 cosine: 0.387747
+失业率, 65, 配资, 
+class: 258 cosine: NaN
+劳工, 
+class: 259 cosine: 0.377964
+数据, 黑白, 
+class: 260 cosine: NaN
+10月23日, 
+class: 261 cosine: 0.000000
+不知所云, 魔术, 
+class: 262 cosine: 0.666667
+史密斯, 克鲁尼, 饮食, 电视节目, 130, 
+class: 263 cosine: 0.100592
+希拉里, 特工, 醉酒, 支持者, 
+class: 264 cosine: 0.000000
+制造业, 约翰, 
+class: 265 cosine: 0.500000
+古巴, 古巴导弹危机, 
+class: 266 cosine: 0.304162
+刺激, 电力, 拯救, 
+class: 267 cosine: NaN
+正果, 
+class: 268 cosine: 0.219416
+倾向, 34, 技能, 能人, 
+class: 269 cosine: 0.166667
+艾奥瓦, 非洲, 爱尔兰, 
+class: 270 cosine: 0.408248
+杰克, 东部, 
+class: 271 cosine: 0.250000
+10月30日, 俄亥俄, 
+class: 272 cosine: 0.500000
+弗吉尼亚, 主持, 
+class: 273 cosine: 0.500000
+18, 1936年, 
+class: 274 cosine: 0.500000
+中心, 国人, 
+class: 275 cosine: NaN
+巴格达, 
+class: 276 cosine: NaN
+部长, 
+class: 277 cosine: NaN
+芝加哥, 
+class: 278 cosine: 0.408248
+外交, 阿富汗战争, 
+class: 279 cosine: 0.096225
+晚上, 10月18日, 冰岛, 
+class: 280 cosine: 0.076655
+学生, 环球时报, 25, 世界末日, 脚踏车, 的卢, 
+class: 281 cosine: 0.408248
+技巧, 语句, 
+class: 282 cosine: NaN
+250, 
+class: 283 cosine: 0.500000
+惩罚, 忘记, 
+class: 284 cosine: 0.000000
+伙伴, 社交, 
+class: 285 cosine: NaN
+空海, 
+class: 286 cosine: 0.500000
+黑客, 卡尼, 
+class: 287 cosine: NaN
+比例, 
+class: 288 cosine: NaN
+凯恩斯主义, 
+class: 289 cosine: 0.000000
+哈姆, 士兵, 
+class: 290 cosine: 0.408248
+乔, 方阵, 
+class: 291 cosine: NaN
+12, 
+class: 292 cosine: NaN
+保罗, 
+class: 293 cosine: NaN
+悬崖, 
+class: 294 cosine: 0.500000
+16, 统计, 
+class: 295 cosine: 0.500000
+漏洞, 信息, 
+class: 296 cosine: 0.500000
+14, 情绪, 
+class: 297 cosine: NaN
+形式, 
+class: 298 cosine: NaN
+储蓄, 
+class: 299 cosine: NaN
+幽默, 
+class: 300 cosine: 0.000000
+灾难, 莫耶斯, 
+class: 301 cosine: 0.408248
+被提, 上都, 
+class: 302 cosine: NaN
+普斯, 
+class: 303 cosine: 0.500000
+有线电视, 枪支, 
+class: 304 cosine: 0.136083
+教授, 分析师, 肢体语言, 
+class: 305 cosine: NaN
+独联体集体安全条约组织, 
+class: 306 cosine: NaN
+维和, 
+class: 307 cosine: 0.000000
+吉拉, 世界和平, 
+class: 308 cosine: NaN
+区域, 
+class: 309 cosine: 0.000000
+五角大楼, 范畴, 
+class: 310 cosine: NaN
+实业, 
+class: 311 cosine: 0.384900
+太阳能, 复兴, 罗斯福新政, 
+class: 312 cosine: NaN
+共享, 
+class: 313 cosine: NaN
+选择, 
+class: 314 cosine: NaN
+燃油, 
+class: 315 cosine: NaN
+西方国家, 
+class: 316 cosine: NaN
+克里, 
+class: 317 cosine: 0.210819
+23, 选手, 10月, 
+class: 318 cosine: NaN
+中国大学, 
+class: 319 cosine: NaN
+政治献金, 
+class: 320 cosine: NaN
+爆料, 
+class: 321 cosine: NaN
+故事, 
+class: 322 cosine: NaN
+裁判, 
+class: 323 cosine: 0.408248
+哥伦比亚广播公司, 高达, 
+class: 324 cosine: 0.500000
+适应, 证据, 
+class: 325 cosine: 0.408248
+广告, 总统竞选, 
+class: 326 cosine: 0.438832
+卢沛宁, 健保, 梦想, 
+class: 327 cosine: NaN
+新华社, 
+class: 328 cosine: NaN
+网络安全, 
+class: 329 cosine: NaN
+白宫, 
+class: 330 cosine: NaN
 芝麻街, 
-class: 418 cosine: NaN
-超级大国, 
-0.154303,0.426401,NaN,0.136083,0.551567,0.000000,NaN,0.298142,0.000000,NaN,0.500000,0.622008,0.000000,0.500000,NaN,0.000000,0.408248,0.408248,0.408248,0.000000,0.408248,0.027217,0.000000,0.000000,0.000000,NaN,0.500000,0.303561,0.507093,0.000000,NaN,0.000000,0.287457,0.136083,0.229199,0.000000,0.534522,NaN,0.250000,0.500000,0.134123,0.000000,NaN,0.111111,0.000000,NaN,0.104650,0.408248,0.388889,0.000000,0.083333,0.438832,0.298394,0.040825,NaN,0.538675,0.000000,0.353553,0.408248,0.149071,0.500000,0.408248,0.353553,NaN,0.316228,NaN,0.353553,0.666667,0.408248,NaN,0.500000,0.000000,0.272166,0.500000,0.408248,0.384900,0.406870,0.500000,0.534522,0.411054,0.408248,0.215738,0.500000,0.000000,0.500000,NaN,0.408248,NaN,0.550229,0.500000,NaN,0.018034,NaN,0.438832,0.000000,0.408248,NaN,NaN,0.408248,0.408248,NaN,0.136083,0.408248,0.500000,0.166667,0.408248,NaN,NaN,0.136083,0.516398,0.234005,0.408248,0.192450,0.111111,0.666667,0.000000,NaN,NaN,0.408248,NaN,0.516398,0.069692,0.000000,0.000000,0.000000,0.000000,0.500000,0.500000,0.000000,0.000000,0.383277,0.666667,0.000000,0.666667,0.198727,NaN,0.166667,0.000000,0.142259,0.000000,0.408248,NaN,0.000000,0.333333,0.142259,NaN,NaN,0.500000,0.666667,NaN,0.447214,0.707107,0.000000,0.328533,NaN,0.000000,0.000000,0.000000,NaN,0.000000,NaN,0.219416,0.377964,0.000000,0.408248,0.438832,0.500000,0.666667,0.481406,0.000000,NaN,NaN,NaN,0.408248,0.000000,NaN,0.000000,0.000000,0.128413,NaN,0.408248,0.000000,0.438832,0.151781,0.136083,0.000000,0.577350,0.500000,0.000000,NaN,0.164983,0.438832,0.000000,0.333333,0.000000,0.473587,NaN,NaN,0.500000,0.408248,0.408248,NaN,0.357405,0.750000,0.000000,0.416667,0.267261,0.083333,NaN,NaN,0.235702,NaN,0.096225,NaN,0.117851,0.214650,0.000000,0.500000,NaN,0.353553,0.000000,0.630940,NaN,0.500000,NaN,NaN,0.096225,0.467728,NaN,0.408248,0.500000,NaN,NaN,NaN,0.408248,0.000000,0.000000,NaN,0.000000,0.198727,0.500000,0.000000,NaN,NaN,0.377964,NaN,NaN,0.500000,0.000000,0.000000,NaN,0.327558,NaN,0.301511,0.666667,NaN,0.500000,NaN,NaN,0.000000,NaN,NaN,0.000000,NaN,0.666667,NaN,0.000000,NaN,0.333333,NaN,NaN,0.000000,0.353553,NaN,0.387747,0.000000,0.500000,0.284518,0.179354,NaN,0.353553,NaN,NaN,NaN,0.408248,0.000000,0.000000,0.100592,0.000000,0.447214,0.500000,0.000000,0.500000,0.000000,NaN,NaN,NaN,0.408248,NaN,0.500000,NaN,0.288675,NaN,NaN,0.353553,NaN,0.500000,0.000000,NaN,0.577350,NaN,NaN,NaN,NaN,0.000000,NaN,NaN,NaN,0.500000,NaN,NaN,NaN,0.408248,0.000000,NaN,NaN,NaN,NaN,NaN,NaN,0.000000,0.500000,NaN,NaN,NaN,NaN,NaN,0.000000,0.408248,NaN,NaN,NaN,0.000000,0.210819,NaN,NaN,0.000000,NaN,NaN,NaN,0.500000,0.000000,0.000000,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.000000,NaN,0.000000,NaN,NaN,NaN,NaN,NaN,0.000000,0.408248,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.000000,NaN,NaN,NaN,NaN,NaN,NaN,0.408248,NaN,NaN,0.000000,NaN,NaN,NaN,NaN,NaN,NaN,NaN,
+class: 331 cosine: NaN
+晚餐, 
+class: 332 cosine: NaN
+秘书, 
+class: 333 cosine: NaN
+野田, 
+class: 334 cosine: NaN
+主席, 
+class: 335 cosine: NaN
+反美, 
+class: 336 cosine: NaN
+视角, 
+class: 337 cosine: NaN
+不屑, 
+class: 338 cosine: NaN
+网通, 
+class: 339 cosine: NaN
+美国东部时间, 
+class: 340 cosine: NaN
+认真, 
+class: 341 cosine: NaN
+滑铁卢, 
+class: 342 cosine: NaN
+语言, 
+class: 343 cosine: NaN
+中新社, 
+class: 344 cosine: NaN
+程序, 
+class: 345 cosine: NaN
+定制, 
+class: 346 cosine: NaN
+退休, 
+class: 347 cosine: NaN
+67, 
+class: 348 cosine: 0.500000
+苹果, 行为, 
+class: 349 cosine: NaN
+萨科齐, 
+class: 350 cosine: 0.000000
+主计长, 关塔那摩, 
+class: 351 cosine: 0.408248
+研究所, 在线, 
+class: 352 cosine: NaN
+洛奇, 
+class: 353 cosine: 0.000000
+米勒, 38, 
+class: 354 cosine: NaN
+批准, 
+class: 355 cosine: NaN
+言论自由, 
+class: 356 cosine: NaN
+福特, 
+class: 357 cosine: NaN
+噪音, 
+class: 358 cosine: NaN
+拉克, 
+class: 359 cosine: NaN
+图尔, 
+class: 360 cosine: NaN
+坎特, 
+class: 361 cosine: NaN
+优素福, 
+class: 362 cosine: NaN
+乞丐, 
+class: 363 cosine: NaN
+纪录片, 
+class: 364 cosine: NaN
+波特, 
+class: 365 cosine: NaN
+时殷弘, 
+class: 366 cosine: NaN
+编辑, 
+class: 367 cosine: NaN
+作者, 
+class: 368 cosine: 0.000000
+南京, RA, 
+class: 369 cosine: NaN
+医药, 
+class: 370 cosine: NaN
+华盛顿时报, 
+class: 371 cosine: NaN
+生地, 
+class: 372 cosine: NaN
+医院, 
+class: 373 cosine: NaN
+父亲, 
+class: 374 cosine: NaN
+板块, 
+class: 375 cosine: NaN
+国际经济学, 
+class: 376 cosine: NaN
+基金, 
+class: 377 cosine: NaN
+声音, 
+class: 378 cosine: NaN
+英特尔, 
+class: 379 cosine: NaN
+11月4日, 
+class: 380 cosine: NaN
+月球, 
+class: 381 cosine: NaN
+向国, 
+class: 382 cosine: NaN
+分钟, 
+class: 383 cosine: NaN
+提前, 
+class: 384 cosine: NaN
+22, 
+0.500000,NaN,0.551567,0.500000,0.000000,0.408248,0.500000,0.000000,0.666667,NaN,0.408248,0.009743,0.328533,NaN,0.000000,0.000000,0.408248,0.222222,0.370791,0.267261,0.000000,0.000000,0.447214,NaN,0.408248,0.000000,0.353553,0.500000,NaN,NaN,NaN,0.096225,0.438832,0.408248,0.099914,0.408248,0.100000,0.000000,0.000000,0.175079,NaN,0.303561,NaN,0.707107,NaN,0.408248,0.000000,0.198727,0.364940,0.068041,NaN,NaN,0.000000,0.000000,NaN,NaN,NaN,NaN,NaN,NaN,0.000000,0.262572,0.111596,NaN,NaN,0.175079,0.166667,0.287457,0.000000,NaN,0.136083,0.500000,NaN,NaN,0.551567,0.000000,0.000000,0.000000,0.000000,NaN,0.000000,0.666667,NaN,0.000000,0.500000,NaN,0.000000,0.192450,0.000000,0.454124,0.298142,0.408248,0.408248,0.411054,0.000000,NaN,0.577350,0.164983,0.000000,0.666667,0.000000,NaN,0.000000,NaN,0.350159,0.000000,0.000000,0.000000,0.298142,0.500000,0.423205,NaN,0.500000,0.353553,0.500000,0.236271,NaN,0.000000,0.577350,0.316228,0.414672,0.333333,0.447214,0.353553,NaN,0.500000,NaN,NaN,0.577350,0.408248,NaN,0.494388,0.464809,0.000000,0.000000,0.364940,0.408248,0.247194,0.275783,0.408248,0.136083,0.000000,NaN,0.235702,0.098267,0.000000,0.438832,0.500000,0.538675,0.235702,NaN,NaN,0.500000,0.166667,0.438832,0.000000,0.500000,0.000000,0.383277,0.408248,0.750000,0.473587,0.000000,0.500000,0.117851,0.530330,0.707107,0.000000,0.500000,0.028526,NaN,0.670820,0.000000,0.500000,0.577350,0.000000,0.500000,0.175079,0.313505,0.446384,0.408248,0.068041,NaN,NaN,0.377964,NaN,0.513654,NaN,NaN,0.558024,0.000000,0.353553,0.166667,0.201184,NaN,0.000000,NaN,0.000000,0.223607,0.000000,0.500000,0.426401,0.498570,NaN,0.516398,NaN,0.467728,0.494388,0.447214,0.223607,0.000000,0.152081,0.000000,0.000000,0.438832,NaN,NaN,NaN,0.136083,NaN,0.438832,NaN,0.500000,0.000000,0.000000,0.418643,NaN,NaN,NaN,NaN,0.000000,0.500000,NaN,0.000000,0.166667,NaN,NaN,NaN,NaN,0.494388,0.408248,NaN,0.500000,0.408248,0.000000,0.272166,0.500000,0.251976,0.622008,0.353553,0.181650,0.288675,0.550229,0.408248,0.353553,0.191638,0.500000,0.387747,NaN,0.377964,NaN,0.000000,0.666667,0.100592,0.000000,0.500000,0.304162,NaN,0.219416,0.166667,0.408248,0.250000,0.500000,0.500000,0.500000,NaN,NaN,NaN,0.408248,0.096225,0.076655,0.408248,NaN,0.500000,0.000000,NaN,0.500000,NaN,NaN,0.000000,0.408248,NaN,NaN,NaN,0.500000,0.500000,0.500000,NaN,NaN,NaN,0.000000,0.408248,NaN,0.500000,0.136083,NaN,NaN,0.000000,NaN,0.000000,NaN,0.384900,NaN,NaN,NaN,NaN,NaN,0.210819,NaN,NaN,NaN,NaN,NaN,0.408248,0.500000,0.408248,0.438832,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.500000,NaN,0.000000,0.408248,NaN,0.000000,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.000000,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,
 
-0,2.750000
-1,2.250000
-2,0.000000
-3,1.777778
-4,0.888889
+0,0.500000
+1,0.000000
+2,0.888889
+3,0.666667
+4,0.500000
 5,0.750000
-6,0.000000
-7,1.111111
-8,0.984375
+6,0.500000
+7,0.750000
+8,0.500000
 9,0.000000
-10,0.500000
-11,0.937500
+10,0.750000
+11,9.337154
 12,0.888889
-13,0.500000
-14,0.000000
-15,0.750000
+13,0.000000
+14,0.750000
+15,0.500000
 16,0.750000
-17,0.750000
-18,0.750000
-19,0.500000
-20,0.750000
-21,1.333333
+17,1.555556
+18,1.312500
+19,3.250000
+20,0.500000
+21,1.000000
 22,1.000000
-23,1.000000
+23,0.000000
 24,0.750000
-25,0.000000
-26,0.500000
-27,1.555556
-28,1.500000
-29,1.250000
+25,0.500000
+26,1.000000
+27,0.666667
+28,0.000000
+29,0.000000
 30,0.000000
-31,3.750000
-32,1.187500
-33,1.111111
-34,2.000000
+31,1.555556
+32,0.888889
+33,0.750000
+34,3.120000
 35,0.750000
-36,1.250000
-37,0.000000
-38,0.937500
-39,0.750000
-40,2.888889
-41,0.500000
+36,1.680000
+37,1.250000
+38,1.500000
+39,1.687500
+40,0.000000
+41,1.555556
 42,0.000000
-43,1.777778
-44,1.250000
-45,0.000000
-46,3.375000
-47,0.750000
-48,1.375000
-49,0.750000
-50,1.187500
-51,0.888889
-52,3.333333
-53,1.200000
+43,0.500000
+44,0.000000
+45,0.750000
+46,1.000000
+47,2.000000
+48,2.222222
+49,1.750000
+50,0.000000
+51,0.000000
+52,1.500000
+53,0.750000
 54,0.000000
-55,1.125000
-56,1.000000
-57,1.750000
-58,0.750000
-59,1.555556
-60,0.500000
-61,0.750000
-62,1.000000
+55,0.000000
+56,0.000000
+57,0.000000
+58,0.000000
+59,0.000000
+60,1.000000
+61,2.080000
+62,6.000000
 63,0.000000
-64,2.250000
-65,0.000000
-66,1.000000
-67,0.857143
-68,0.750000
+64,0.000000
+65,1.875000
+66,1.555556
+67,1.187500
+68,1.250000
 69,0.000000
-70,0.500000
+70,1.333333
 71,0.500000
-72,1.333333
-73,0.666667
-74,0.750000
-75,0.666667
-76,1.777778
+72,0.000000
+73,0.000000
+74,0.888889
+75,1.777778
+76,0.750000
 77,0.500000
-78,1.250000
-79,1.125000
-80,0.750000
-81,2.444444
-82,1.500000
-83,1.000000
+78,0.500000
+79,0.000000
+80,1.750000
+81,0.500000
+82,0.000000
+83,1.250000
 84,0.500000
 85,0.000000
-86,0.750000
-87,0.000000
-88,1.125000
-89,0.500000
-90,0.000000
-91,11.467156
-92,0.000000
-93,0.888889
+86,1.000000
+87,1.333333
+88,0.750000
+89,0.937500
+90,1.111111
+91,1.250000
+92,1.250000
+93,1.125000
 94,0.750000
-95,0.750000
-96,0.000000
-97,0.000000
+95,0.000000
+96,0.500000
+97,1.600000
 98,0.750000
-99,0.750000
-100,0.000000
-101,1.111111
-102,0.750000
-103,0.500000
-104,0.888889
+99,0.900000
+100,2.000000
+101,0.000000
+102,3.000000
+103,0.000000
+104,1.333333
 105,0.750000
-106,0.000000
-107,0.000000
-108,1.333333
-109,1.000000
-110,1.937500
-111,0.750000
-112,1.555556
-113,2.222222
-114,0.500000
-115,1.000000
+106,2.250000
+107,0.750000
+108,2.500000
+109,0.666667
+110,1.200000
+111,0.000000
+112,0.666667
+113,1.000000
+114,0.666667
+115,3.361111
 116,0.000000
-117,0.000000
-118,0.750000
-119,0.000000
-120,1.000000
-121,1.600000
+117,0.750000
+118,0.500000
+119,2.250000
+120,1.333333
+121,2.000000
 122,1.000000
-123,0.750000
-124,1.500000
+123,1.000000
+124,0.000000
 125,0.750000
-126,0.666667
-127,0.750000
-128,1.000000
-129,4.888889
-130,1.111111
-131,0.800000
-132,0.750000
+126,0.000000
+127,0.000000
+128,0.500000
+129,1.250000
+130,0.000000
+131,0.888889
+132,1.333333
 133,0.500000
-134,2.000000
-135,0.000000
-136,1.333333
-137,0.500000
-138,1.625000
+134,1.120000
+135,2.222222
+136,0.750000
+137,1.333333
+138,1.187500
 139,0.750000
-140,0.750000
-141,0.000000
-142,1.250000
-143,2.000000
-144,1.250000
-145,0.000000
-146,0.000000
-147,0.666667
-148,0.500000
-149,0.000000
-150,1.000000
-151,0.500000
-152,0.750000
-153,1.333333
-154,0.000000
-155,0.750000
-156,0.750000
-157,1.000000
-158,0.000000
-159,2.437500
-160,0.000000
-161,1.125000
-162,1.500000
-163,1.000000
-164,0.750000
-165,0.888889
+140,1.111111
+141,0.500000
+142,0.000000
+143,1.750000
+144,1.840000
+145,1.250000
+146,0.888889
+147,0.500000
+148,1.125000
+149,1.777778
+150,0.000000
+151,0.000000
+152,0.500000
+153,0.888889
+154,0.888889
+155,0.500000
+156,0.500000
+157,1.750000
+158,1.111111
+159,0.750000
+160,0.500000
+161,2.312500
+162,0.500000
+163,0.666667
+164,2.000000
+165,1.500000
 166,0.500000
 167,0.500000
-168,1.777778
-169,1.333333
+168,0.500000
+169,4.435000
 170,0.000000
-171,0.000000
-172,0.000000
-173,0.750000
-174,1.750000
-175,0.000000
-176,1.500000
-177,2.750000
-178,2.250000
-179,0.000000
+171,0.750000
+172,0.750000
+173,0.500000
+174,0.500000
+175,0.750000
+176,0.500000
+177,2.062500
+178,2.444444
+179,1.111111
 180,0.750000
-181,1.250000
-182,0.888889
-183,1.687500
-184,1.555556
-185,0.750000
-186,0.500000
-187,0.500000
-188,1.777778
-189,0.000000
-190,1.600000
-191,0.888889
-192,2.500000
-193,0.888889
-194,2.000000
-195,2.312500
+181,1.562500
+182,0.000000
+183,0.000000
+184,1.500000
+185,0.000000
+186,1.111111
+187,0.000000
+188,0.000000
+189,1.555556
+190,1.250000
+191,1.750000
+192,0.888889
+193,1.777778
+194,0.000000
+195,0.750000
 196,0.000000
-197,0.000000
-198,0.750000
-199,0.750000
-200,0.750000
-201,0.000000
-202,1.875000
-203,0.500000
+197,2.500000
+198,1.750000
+199,1.000000
+200,0.500000
+201,2.250000
+202,1.125000
+203,0.000000
 204,1.000000
-205,1.333333
-206,3.250000
-207,2.500000
-208,0.000000
-209,0.000000
-210,1.777778
-211,0.000000
-212,2.000000
-213,0.000000
-214,2.222222
-215,1.777778
-216,1.500000
-217,0.500000
-218,0.000000
-219,1.000000
-220,1.000000
-221,0.960000
-222,0.000000
+205,0.000000
+206,1.555556
+207,0.888889
+208,1.000000
+209,1.750000
+210,0.750000
+211,3.333333
+212,0.500000
+213,1.000000
+214,0.888889
+215,0.000000
+216,0.000000
+217,0.000000
+218,1.111111
+219,0.000000
+220,0.888889
+221,0.000000
+222,0.666667
 223,0.500000
-224,0.000000
-225,0.000000
-226,2.000000
-227,1.555556
+224,0.750000
+225,1.777778
+226,0.000000
+227,0.000000
 228,0.000000
-229,1.250000
-230,0.500000
-231,0.000000
+229,0.000000
+230,0.750000
+231,0.500000
 232,0.000000
-233,0.000000
-234,0.750000
-235,0.750000
-236,0.750000
+233,2.750000
+234,0.888889
+235,0.000000
+236,0.000000
 237,0.000000
-238,0.888889
-239,2.000000
-240,0.666667
-241,0.500000
-242,0.000000
-243,0.000000
-244,1.500000
-245,0.000000
-246,0.000000
-247,0.500000
-248,2.222222
-249,0.750000
-250,0.000000
-251,1.555556
-252,0.000000
-253,2.500000
-254,0.500000
-255,0.000000
+238,0.000000
+239,0.888889
+240,0.750000
+241,0.000000
+242,0.500000
+243,0.750000
+244,0.500000
+245,1.333333
+246,0.500000
+247,1.555556
+248,0.937500
+249,1.000000
+250,1.694444
+251,1.250000
+252,1.125000
+253,0.750000
+254,1.000000
+255,1.500000
 256,0.500000
-257,0.000000
+257,2.000000
 258,0.000000
-259,0.500000
+259,1.500000
 260,0.000000
-261,0.000000
-262,0.750000
-263,0.000000
-264,0.666667
-265,0.000000
-266,1.250000
+261,0.500000
+262,0.800000
+263,3.875000
+264,0.750000
+265,0.500000
+266,1.555556
 267,0.000000
-268,1.000000
-269,0.000000
-270,0.000000
-271,0.750000
-272,1.000000
-273,0.000000
-274,2.000000
-275,1.000000
-276,0.500000
-277,1.555556
-278,2.625000
-279,0.000000
-280,1.000000
-281,0.000000
+268,1.125000
+269,0.888889
+270,0.750000
+271,1.500000
+272,0.500000
+273,0.750000
+274,0.500000
+275,0.000000
+276,0.000000
+277,0.000000
+278,1.250000
+279,1.555556
+280,1.500000
+281,0.750000
 282,0.000000
-283,0.000000
-284,0.750000
-285,1.500000
-286,2.250000
-287,3.875000
-288,1.000000
-289,1.000000
-290,0.666667
-291,2.250000
-292,0.750000
-293,0.750000
-294,0.000000
-295,0.000000
-296,0.000000
-297,0.750000
+283,0.500000
+284,1.000000
+285,0.000000
+286,0.500000
+287,0.000000
+288,0.000000
+289,0.500000
+290,0.750000
+291,0.000000
+292,0.000000
+293,0.000000
+294,0.500000
+295,0.500000
+296,0.500000
+297,0.000000
 298,0.000000
-299,0.750000
-300,0.000000
-301,1.250000
+299,0.000000
+300,0.750000
+301,0.750000
 302,0.000000
-303,0.000000
-304,1.000000
+303,0.750000
+304,1.777778
 305,0.000000
-306,0.500000
-307,1.000000
+306,0.000000
+307,0.750000
 308,0.000000
 309,0.750000
 310,0.000000
-311,0.000000
+311,0.666667
 312,0.000000
 313,0.000000
-314,1.000000
+314,0.000000
 315,0.000000
 316,0.000000
-317,0.000000
-318,0.500000
+317,1.333333
+318,0.000000
 319,0.000000
 320,0.000000
 321,0.000000
-322,0.750000
+322,0.000000
 323,0.750000
-324,0.000000
-325,0.000000
-326,0.000000
+324,0.750000
+325,0.750000
+326,0.888889
 327,0.000000
 328,0.000000
 329,0.000000
-330,1.500000
-331,0.750000
+330,0.000000
+331,0.000000
 332,0.000000
 333,0.000000
 334,0.000000
 335,0.000000
 336,0.000000
-337,0.750000
-338,0.750000
+337,0.000000
+338,0.000000
 339,0.000000
 340,0.000000
 341,0.000000
-342,0.750000
-343,1.333333
+342,0.000000
+343,0.000000
 344,0.000000
 345,0.000000
-346,1.000000
+346,0.000000
 347,0.000000
-348,0.000000
+348,0.500000
 349,0.000000
-350,0.750000
+350,0.500000
 351,0.750000
-352,0.750000
-353,0.000000
+352,0.000000
+353,0.500000
 354,0.000000
 355,0.000000
 356,0.000000
@@ -1212,7 +1144,7 @@ class: 418 cosine: NaN
 365,0.000000
 366,0.000000
 367,0.000000
-368,0.000000
+368,0.500000
 369,0.000000
 370,0.000000
 371,0.000000
@@ -1221,47 +1153,13 @@ class: 418 cosine: NaN
 374,0.000000
 375,0.000000
 376,0.000000
-377,0.750000
+377,0.000000
 378,0.000000
-379,0.500000
+379,0.000000
 380,0.000000
 381,0.000000
 382,0.000000
 383,0.000000
 384,0.000000
-385,0.750000
-386,0.750000
-387,0.000000
-388,0.000000
-389,0.000000
-390,0.000000
-391,0.000000
-392,0.000000
-393,0.000000
-394,0.000000
-395,0.000000
-396,0.000000
-397,0.000000
-398,0.000000
-399,0.000000
-400,0.000000
-401,0.750000
-402,0.000000
-403,0.000000
-404,0.000000
-405,0.000000
-406,0.000000
-407,0.000000
-408,0.750000
-409,0.000000
-410,0.000000
-411,0.500000
-412,0.000000
-413,0.000000
-414,0.000000
-415,0.000000
-416,0.000000
-417,0.000000
-418,0.000000
 transposing...ok
-Total time: 115s
+Total time: 108s
