@@ -17,7 +17,7 @@
 	char MakeMatrix(char **pMatrix, int row, int col) 
 	{ 
     	int i, j; 
-    	//pMatrix = (char **) malloc( sizeof(char *) * row); 
+    	pMatrix = (char **) malloc( sizeof(char *) * row); 
     	if (NULL == *pMatrix) 
     	{ 
        	 	printf("rows error!\n"); 
@@ -58,7 +58,7 @@
   	int MakeMatrixint(int **pMatrix, int row, int col) 
 	{ 
     	int i, j; 
-    	//pMatrix = (int **) malloc( sizeof(int *) * row); 
+    	pMatrix = (int **) malloc( sizeof(int *) * row); 
     	if (NULL == *pMatrix) 
     	{ 
         	printf("rows error!\n"); 
@@ -100,7 +100,7 @@
   	int MakeMatrixdouble(double **pMatrix, int row, int col) 
 	{ 
     	int i, j; 
-    	//pMatrix = (double **) malloc( sizeof(double *) * row); 
+    	pMatrix = (double **) malloc( sizeof(double *) * row); 
     	if (NULL == *pMatrix) 
     	{ 
         	printf("rows error!\n"); 
