@@ -167,6 +167,11 @@ int main(void)
 	//int *V=(int*)malloc(sizeof(int)*N);
 	//double *q=(double*)malloc(sizeof(double)*U);//first 1/n
 	//double *e=(double*)malloc(sizeof(double)*U);//value
+	if ((B==NULL)||Cni == NULL){
+		printf("cni error\n");
+		return 1;
+	}
+
 	printf("txt context:\n"); //print text
 	str=(char**)malloc(P*sizeof(char *));
 	for (i=0;i<P;i++){
@@ -221,8 +226,10 @@ int main(void)
 	}
 	fclose(fp2);
 
-    	H=(int**)malloc(N*P*sizeof(int *));
-	
+    	H=(int**)malloc(P*sizeof(int *));
+	for (i=0;i<P;i++){
+		str[i] = malloc(N* sizeof(int));
+	}
 	if (!H){
 		printf("mem not enough\n");
 		return 1;
@@ -257,10 +264,21 @@ int main(void)
 	}
 
 
+printf("point 1 reached.\n");
 
 
-
-	Dv=(double**)malloc(P*P*sizeof(double *));
+	Dv=(double**)malloc(P*sizeof(double *));
+        for (i=0;i<P;i++){
+		Dv[i] = malloc(P * sizeof(double));
+if (!Dv[i]){
+	printf("mem error dv\n");
+	return 1;
+	}
+	}
+if (!Dv){
+	printf("mem error");
+	return 1;
+}
 	MakeMatrixdouble(Dv, P, P); 
 	for(i=0;i<P;i++)
 	{
@@ -280,7 +298,14 @@ int main(void)
 	}
 		printf("%f\n ",Dv[1][1]);
 
-	W=(double**)malloc(N*N*sizeof(double *));
+	W=(double**)malloc(N*sizeof(double *));
+        for (i=0;i<N;i++){
+		W[i] = malloc(N* sizeof(double));
+	}
+if (!W){
+	printf("mem error;");
+	return 1;
+}
 	MakeMatrixdouble(W, N, N); 
 	for(i=0;i<N;i++)
 	{
@@ -289,7 +314,14 @@ int main(void)
 			    W[i][j]=1;
 	}
 
-	HT=(int**)malloc(N*P*sizeof(double *));
+	HT=(int**)malloc(N*sizeof(double *));
+        for (i=0;i<N;i++){
+		HT[i] = malloc(P* sizeof(int));
+	}
+if (!HT){
+	printf("mem error;");
+	return 1;
+}
 	MakeMatrixint(HT, N, P); 
 	for(i=0;i<P;i++)	
 			for(n=0;n<N;n++)
@@ -299,7 +331,14 @@ int main(void)
 			}
 
 
-	De=(double**)malloc(N*N*sizeof(double *));
+	De=(double**)malloc(N*sizeof(double *));
+        for (i=0;i<N;i++){
+		De[i] = malloc(N* sizeof(double));
+	}
+if (!De){
+	printf("mem error;");
+	return 1;
+}
 	MakeMatrixdouble(De, N, N); 
 		for(i=0;i<N;i++)
 	{
@@ -323,9 +362,13 @@ int main(void)
 	}
 	printf("De\n");
 
+printf("point 2 reached.\n");
 
 
 	Ds=(double**)malloc(P*P*sizeof(double *));
+        for (i=0;i<P;i++){
+		Ds[i] = malloc(P* sizeof(double));
+	}
 	MakeMatrixdouble(Ds, P, P); 
 	for(i=0;i<P;i++)
 	{
@@ -342,6 +385,9 @@ int main(void)
 	FreeMatrixdouble(Dv,P,P); 
 
 	Den=(double**)malloc(N*N*sizeof(double *));
+        for (i=0;i<N;i++){
+		Den[i] = malloc(N* sizeof(double));
+	}
 	MakeMatrixdouble(Den, N, N); 
 	for(i=0;i<N;i++)
 	{
@@ -357,7 +403,10 @@ int main(void)
 			}
 	}
 
-	Dsn=(double**)malloc(P*P*sizeof(double *));
+	Dsn=(double**)malloc(P*sizeof(double *));
+        for (i=0;i<P;i++){
+		Dsn[i] = malloc(P*sizeof(double));
+	}
 	MakeMatrixdouble(Dsn, P, P); 
 	for(i=0;i<P;i++)
 	{
@@ -375,7 +424,10 @@ int main(void)
 	printf("%f ",Dsn[1][1]);
 
 	double** DsnH;
-	DsnH=(double**)malloc(P*N*sizeof(double *));
+	DsnH=(double**)malloc(P*sizeof(double *));
+        for (i=0;i<P;i++){
+		DsnH[i] = malloc(N* sizeof(double));
+	}
 	MakeMatrixdouble(DsnH, P, N); 
 	for(i=0;i<P;i++)
 	{
@@ -387,7 +439,10 @@ int main(void)
 	}
 	printf("DsnH\n ");
 	double** DsnHW;
-	DsnHW=(double**)malloc(P*N*sizeof(double *));
+	DsnHW=(double**)malloc(P*sizeof(double *));
+        for (i=0;i<P;i++){
+		DsnHW[i] = malloc(N* sizeof(double));
+	}
 	MakeMatrixdouble(DsnHW, P, N); 
 	for(i=0;i<P;i++)
 	{
@@ -400,7 +455,10 @@ int main(void)
 		printf("DsnHW\n ");
 
 	double** DsnHWDen;
-	DsnHWDen=(double**)malloc(P*N*sizeof(double *));
+	DsnHWDen=(double**)malloc(P*sizeof(double *));
+        for (i=0;i<P;i++){
+		str[i] = malloc(N* sizeof(double));
+	}
 	MakeMatrixdouble(DsnHWDen, P, N); 
 	for(i=0;i<P;i++)
 	{
@@ -412,9 +470,11 @@ int main(void)
 	}
 		printf("DsnHWDn\n ");
 
-
 	double** Az;
-	Az=(double**)malloc(P*P*sizeof(double *));
+	Az=(double**)malloc(P*sizeof(double *));
+        for (i=0;i<P;i++){
+		Az[i] = malloc(P* sizeof(double));
+	}
 	MakeMatrixdouble(Az, P,P); 
 	for(i=0;i<P;i++)
 	{
@@ -428,7 +488,10 @@ int main(void)
 	printf("Az\n ");
 
 	double** A;
-	A=(double**)malloc(P*P*sizeof(double *));
+	A=(double**)malloc(P*sizeof(double *));
+        for (i=0;i<P;i++){
+		A[i] = malloc(P* sizeof(double));
+	}
 	MakeMatrixdouble(A, P,P); 
 	for(i=0;i<P;i++)
 	{
@@ -456,10 +519,16 @@ int main(void)
 	printf("\n");              //qiu (I-aA)
 	double x=0.3;
 
-	X=(double**)malloc(P*P*sizeof(double *));
+	X=(double**)malloc(P*sizeof(double *));
+        for (i=0;i<P;i++){
+		X[i] = malloc(P* sizeof(double));
+	}
 	MakeMatrixdouble(X, P,P); 
 
-	C=(double**)malloc(P*P*sizeof(double *));
+	C=(double**)malloc(P*sizeof(double *));
+        for (i=0;i<P;i++){
+		C[i] = malloc(P* sizeof(double));
+	}
 	MakeMatrixdouble(C, P,P); 
 	for(i=0;i<P;i++)
 	{
@@ -485,7 +554,10 @@ int main(void)
 	   for(j=0;j<P;j++)
         	   Cni[i*P+j]=C[i][j];
 	}
-	Cnii=(double**)malloc(P*P*sizeof(double *));
+	Cnii=(double**)malloc(P*sizeof(double *));
+        for (i=0;i<P;i++){
+		Cnii[i] = malloc(P* sizeof(double));
+	}
 	MakeMatrixdouble(Cnii,P,P);
   
    
@@ -558,13 +630,14 @@ int main(void)
 				   break;
 			    if(v[m]== '\0' && m > 0)//note over win    
 				{
-                      h=i;
+                      			h=i;
 				}
 		}
 	}
-		printf("%d\n",h);
+	printf("%d\n",h);
         printf("y=\n");                    // made y
     	for(i=0;i<P;i++)
+	{
 		if(i==h)
 		{
 		    y[i]=1;
@@ -572,14 +645,15 @@ int main(void)
 		else
 			y[i]=A[h][i];
 
-
+	}
 	
 
 	printf("\n");                     //fina value f
 	printf("f=\n");
 	double *f=(double*)malloc(sizeof(double)*P);
-	for(i=0;i<P;i++)
+	for(i=0;i<P;i++){
 		f[i]=0;
+	}
 		for(i=0;i<P;i++)    
 			for(k=0;k<P;k++)         
 			f[i]+=Cnii[i][k]*y[k];
